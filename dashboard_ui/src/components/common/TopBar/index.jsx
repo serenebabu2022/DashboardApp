@@ -1,8 +1,6 @@
 // ----------------------------------------------------------------------
 /* Imports */
-import { useState } from "react";
-import { Box, Stack, Tab, Tabs, Typography, Icon } from "@mui/material";
-import { TabContext, TabPanel } from "@mui/lab";
+import { Box, Typography, Icon } from "@mui/material";
 
 /* Relative Imports */
 import { SearchIcon, NotificationIcon } from "../../../assets/icons/icons";

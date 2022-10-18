@@ -8,7 +8,6 @@ import {
   StyledEngineProvider,
   ThemeProvider,
 } from "@mui/material";
-import "@mui/lab/themeAugmentation";
 
 // ----------------------------------------------------------------------
 
