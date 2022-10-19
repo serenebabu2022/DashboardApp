@@ -1,5 +1,5 @@
 A dashboard application created using React Js. 
-Styling using CSS file with js extension to use global theme. 
+Styling using seperate CSS file with js extension to use global theme. 
 Custom theme created with mui material
 Line graph and pie chart created using react-google-charts
 Extra libraries: @mui/material,react-google-charts
